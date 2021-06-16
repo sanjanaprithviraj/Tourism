@@ -1,0 +1,18 @@
+<html>
+  <head>
+  <style>
+  h1{text-align:center; font-size:40px; 
+font-family: 'Itim', cursive;}
+hr{height:30px; weidth:15px; border-radius:20px;
+background:linear-gradient(cyan, black);}
+img{border:solid;}
+img{height:200px;}
+a{text-decoration:none;text-align:left;}
+</head>
+<body>
+  <h1>Tourism<h1><hr><br>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.dgIH_nc5cFoAKGIgSbLPQwHaES&pid=Api&P=0&w=289&h=168">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.EFuIyINEU6C0ItAea94lPgHaD4&pid=Api&P=0&w=290&h=153"><br><br>
+    <a href="https://cdpn.io/sanjana1234/debug/eYvbGvV/nqMwvzPGDZek">About Tourism
+      </body></html>
+    
